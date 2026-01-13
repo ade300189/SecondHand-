@@ -1,15 +1,15 @@
-# SecondHand Website
+# Proiect SecondHand
 
-Website pentru vânzarea obiectelor personale second-hand.
+**Autor:** [Elena G]  
+**Data:** [13.01.2026]  
+**Descriere:** Website complet funcțional pentru piața de second-hand.
 
-🔗 **Site live:** https://numeutilizator.github.io/secondhand-website
+## Obiective atinse:
+✅ Design modern și atractiv  
+✅ Interfață responsive  
+✅ Funcționalități de bază  
+✅ Ușor de personalizat  
+✅ Gata pentru hosting  
 
-## Tehnologii
-- HTML5, CSS3, JavaScript
-- Responsive Design
-- Font Awesome Icons
-
-## Cum să rulezi
-1. Download fișierul index.html
-2. Deschide în browser
-3. Sau dă dublu-click pe fișier
+## Demo:
+👉 [Vezi site-ul live](https://link-catre-site)
